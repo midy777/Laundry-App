@@ -1,0 +1,5 @@
+<!------1.bagian how it works perlu ditambah icon pengantaran lalu diberi penomoran pada alur yang dipakai
+2.supaya tidak ada bagian yang ambigu
+3. dinavigasi tambah toko Laundry
+4. home harus tdk scroll
+------>
